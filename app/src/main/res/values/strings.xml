@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemoriaInterna</string>
+    <string name="boton_txt">Save File</string>
+    <string name="boton2_txt">Read File</string>
+</resources>
